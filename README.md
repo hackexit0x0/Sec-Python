@@ -6,4 +6,4 @@
 
 
 
-https://rightassess.ai/candidate-login.html
+https://docs.google.com/forms/d/e/1FAIpQLSe2mOyShjv0Jw3ubURQd6JFDvYRo4G59LZ1JqOS9-2pGBOFoQ/viewform?usp=header
