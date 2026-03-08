@@ -22,6 +22,10 @@ pyinstaller --onefile --icon=icon.ico --version-file=version.txt WinReset.py
 # icon.icon
 <attached icon.icon>
 
+# UAC 
+pyinstaller --onefile --windowed --uac-admin --icon=winreset.ico WinResetGUI.py
+pyinstaller --onefile --icon=winreset.ico --windowed --uac-admin --version-file=version.txt --name WinReset WinReset.py
+
 # ADD VERSION
 pyinstaller --onefile --icon=winreset.ico --version-file=version.txt --name WinReset WinReset.py
 
